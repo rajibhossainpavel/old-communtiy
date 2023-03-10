@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>app_bar/icon_more</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Common-/-OSX---Header-icon2" transform="translate(-942.000000, -138.000000)" fill="#4A4A4A">
+            <g id="•-iPhone-XS-/-Bars-/-Header-Copy" transform="translate(0.000000, 132.000000)">
+                <g id="Appbar/icon_more" transform="translate(942.000000, 6.000000)">
+                    <path d="M83,67 C86.85,67 90,63.85 90,60 C90,56.15 86.85,53 83,53 C79.15,53 76,56.15 76,60 C76,63.85 79.15,67 83,67 L83,67 Z" id="Path"></path>
+                    <path d="M60,67 C63.85,67 67,63.85 67,60 C67,56.15 63.85,53 60,53 C56.15,53 53,56.15 53,60 C53,63.85 56.15,67 60,67 L60,67 Z" id="Path"></path>
+                    <path d="M37,67 C40.85,67 44,63.85 44,60 C44,56.15 40.85,53 37,53 C33.15,53 30,56.15 30,60 C30,63.85 33.15,67 37,67 L37,67 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

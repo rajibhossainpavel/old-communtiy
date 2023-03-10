@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="114px" viewBox="0 0 90 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>member_status_free</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="12.4729216%" x2="50%" y2="93.5725529%" id="linearGradient-1">
+            <stop stop-color="#DAD7D7" offset="0%"></stop>
+            <stop stop-color="#A59E9E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="やりとり/やりとり/無料会員" transform="translate(-299.000000, -595.000000)">
+            <g id="member_free" transform="translate(299.000000, 595.000000)">
+                <polygon id="Path" fill="#FF6F63" points="24 64 66 64 66 106 44.8389374 99.7060913 24 106"></polygon>
+                <circle id="Oval-6" stroke="url(#linearGradient-1)" stroke-width="3" fill="#FFFFFF" cx="45" cy="48" r="37.5"></circle>
+                <path d="M69,48.0004352 C69,61.2551992 58.2543289,72 44.9995648,72 C31.7448008,72 21,61.2551992 21,48.0004352 C21,34.7456711 31.7448008,24 44.9995648,24 C58.2543289,24 69,34.7456711 69,48.0004352 Z" id="Stroke-1" stroke="#BABABA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M53,48.5 C53,52.6420887 49.6420887,56 45.5,56 C41.3579113,56 38,52.6420887 38,48.5 C38,44.3579113 41.3579113,41 45.5,41 C49.6420887,41 53,44.3579113 53,48.5 Z" id="Stroke-3" stroke="#BABABA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

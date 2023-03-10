@@ -1,0 +1,14 @@
+{
+	"dart.flutterSdkPath": ".fvm/flutter_sdk",
+	"files.exclude": {
+		"**/*.freezed.dart": true,
+		"**/*.g.dart": true,
+		"**/*.mocks.dart": true
+	},
+	"[dart]": {
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"editor.detectIndentation": false,
+		"editor.suggest.insertMode": "replace"
+	}
+}

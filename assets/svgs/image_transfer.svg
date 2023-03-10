@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642 256">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(282 119)">
+      <path stroke="#81BF5C" stroke-width="15" d="M0.5,18.5 L59.5,18.5"/>
+      <polygon fill="#81BF5C" points="64 5 82 35 46 35" transform="rotate(90 64 20)"/>
+    </g>
+    <g stroke="#81BF5C" transform="translate(387 42)">
+      <rect width="114" height="190" x="-1.5" y="-1.5" stroke-width="3" rx="6"/>
+      <rect width="91" height="167" x="10" y="10" stroke-width="2"/>
+    </g>
+    <g stroke="#81BF5C" transform="translate(135 42)">
+      <rect width="114" height="190" x="-1.5" y="-1.5" stroke-width="3" rx="6"/>
+      <rect width="91" height="167" x="10" y="10" stroke-width="2"/>
+    </g>
+    <g transform="rotate(17 78.576 1578.51)">
+      <polygon fill="#81BF5B" points="59.012 .666 50.379 11.967 41.743 .666 37.48 14.229 25.497 6.579 26.147 20.784 12.269 17.686 17.721 30.818 3.619 32.646 13.246 43.111 .63 49.666 13.246 56.221 3.619 66.686 17.721 68.514 12.269 81.646 26.147 78.547 25.497 92.752 37.48 85.102 41.743 98.666 50.379 87.364 59.012 98.666 63.275 85.102 75.259 92.752 74.608 78.547 88.486 81.647 83.035 68.514 97.136 66.686 87.509 56.221 100.126 49.666 87.509 43.11 97.136 32.646 83.035 30.82 88.487 17.687 74.609 20.785 75.259 6.58 63.275 14.229"/>
+      <text fill="#FFF" font-family="NotoSansCJKjp-Bold, Noto Sans CJK JP" font-size="28" font-weight="bold">
+        <tspan x="19" y="59">NEW</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

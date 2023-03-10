@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>app_bar/icon_add</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Common-/-OSX---Header-icon2" transform="translate(-822.000000, -138.000000)" fill="#4A4A4A">
+            <g id="•-iPhone-XS-/-Bars-/-Header-Copy" transform="translate(0.000000, 132.000000)">
+                <g id="Appbar/icon_add" transform="translate(822.000000, 6.000000)">
+                    <rect id="Rectangle" x="30" y="56" width="60" height="8" rx="3"></rect>
+                    <path d="M33,56 L87,56 C88.6568542,56 90,57.3431458 90,59 L90,61 C90,62.6568542 88.6568542,64 87,64 L33,64 C31.3431458,64 30,62.6568542 30,61 L30,59 C30,57.3431458 31.3431458,56 33,56 Z" id="Rectangle" transform="translate(60.000000, 60.000000) rotate(-270.000000) translate(-60.000000, -60.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

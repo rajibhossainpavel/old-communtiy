@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>list_icon_notification</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="マイページ" transform="translate(-30.000000, -2809.000000)" stroke="#6D6D6D" stroke-width="3">
+            <g id="その他設定" transform="translate(0.000000, 1809.000000)">
+                <g id="おしるこステータス" transform="translate(0.000000, 0.000000)">
+                    <g id="Group-4" transform="translate(0.000000, 538.000000)">
+                        <g id="list/normal-copy-12" transform="translate(0.000000, 432.000000)">
+                            <g id="icon/list/list_icon_notification" transform="translate(30.000000, 30.000000)">
+                                <path d="M69,68 L15,68 L19.5000721,38.685325 C21.4809692,23.781939 29.5733105,16 42.0004327,16 C54.4266895,16 62.606436,24.3831001 64.5007933,38.685325 L69,68 Z" id="Stroke-1"></path>
+                                <path d="M38,16 L38,11.1538462 C38,8.85971154 39.7906468,7 42.0004166,7 C44.2085199,7 46,8.85971154 46,11.1538462 L46,16" id="Stroke-3"></path>
+                                <path d="M49,69 C49,73.418005 45.6418797,77 41.5,77 C37.3572721,77 34,73.418005 34,69" id="Stroke-5"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

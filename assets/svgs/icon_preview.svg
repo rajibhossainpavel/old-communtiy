@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>app_bar/icon_freview</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Appbar/icon_preview" stroke="#4A4A4A" stroke-width="5">
+            <path d="M59.9993795,39 C44.6931232,39 31.4456539,47.5472689 25,60.0006448 C31.4456539,72.4527311 44.6931232,81 59.9993795,81 C75.3068768,81 88.5531051,72.4527311 95,60.0006448 C88.5531051,47.5472689 75.3068768,39 59.9993795,39 Z" id="Stroke-3"></path>
+            <path d="M73,59.9993839 C73,67.1792332 67.1792332,73 59.9993839,73 C52.8207668,73 47,67.1792332 47,59.9993839 C47,52.8195346 52.8207668,47 59.9993839,47 C67.1792332,47 73,52.8195346 73,59.9993839 Z" id="Stroke-7"></path>
+        </g>
+    </g>
+</svg>

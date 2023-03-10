@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>app_bar/icon_circle_more</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Common---scroll" transform="translate(-942.000000, -141.000000)">
+            <g id="mypage" transform="translate(942.000000, 141.000000)">
+                <circle id="Oval" fill="#000000" opacity="0.4" cx="60" cy="60" r="60"></circle>
+                <g id="Group" transform="translate(30.000000, 53.000000)" fill="#FFFFFF">
+                    <path d="M53,14 C56.85,14 60,10.85 60,7 C60,3.15 56.85,0 53,0 C49.15,0 46,3.15 46,7 C46,10.85 49.15,14 53,14 L53,14 Z" id="Shape" transform="translate(53.000000, 7.000000) rotate(-270.000000) translate(-53.000000, -7.000000) "></path>
+                    <path d="M30,14 C33.85,14 37,10.85 37,7 C37,3.15 33.85,0 30,0 C26.15,0 23,3.15 23,7 C23,10.85 26.15,14 30,14 L30,14 Z" id="Shape-Copy" transform="translate(30.000000, 7.000000) rotate(-270.000000) translate(-30.000000, -7.000000) "></path>
+                    <path d="M7,14 C10.85,14 14,10.85 14,7 C14,3.15 10.85,0 7,0 C3.15,0 0,3.15 0,7 C0,10.85 3.15,14 7,14 L7,14 Z" id="Shape-Copy-2" transform="translate(7.000000, 7.000000) rotate(-270.000000) translate(-7.000000, -7.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

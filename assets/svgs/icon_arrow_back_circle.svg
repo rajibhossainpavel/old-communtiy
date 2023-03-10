@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>app_bar/icon_circle_arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Common---scroll" transform="translate(-18.000000, -132.000000)">
+            <g id="Material/Icons-black/arrow-back-iOS-Copy" transform="translate(18.000000, 132.000000)">
+                <circle id="Oval" fill="#000000" opacity="0.4" cx="60" cy="60" r="60"></circle>
+                <path d="M67.6114047,89.7378232 L39.8764556,62.1043834 C38.7078481,60.9411564 38.7078481,59.061865 39.8764556,57.8956166 L67.6114047,30.2621768 C69.2983944,28.5792744 72.0431236,28.5792744 73.7331097,30.2621768 C75.4200994,31.9450793 75.4200994,34.6763968 73.7331097,36.3592992 L50.0073829,60.0015107 L73.7331097,83.6376794 C75.4200994,85.3236032 75.4200994,88.0549207 73.7331097,89.7378232 C72.0431236,91.4207256 69.2983944,91.4207256 67.6114047,89.7378232" id="Arrow" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

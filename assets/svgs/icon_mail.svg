@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>list_icon_mailaddress</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/list/list_icon_mailaddress" fill="#6D6D6D" fill-rule="nonzero">
+            <path d="M28,33 L92,33 C94.209139,33 96,34.790861 96,37 L96,83 C96,85.209139 94.209139,87 92,87 L28,87 C25.790861,87 24,85.209139 24,83 L24,37 C24,34.790861 25.790861,33 28,33 Z M28,36 C27.4477153,36 27,36.4477153 27,37 L27,83 C27,83.5522847 27.4477153,84 28,84 L92,84 C92.5522847,84 93,83.5522847 93,83 L93,37 C93,36.4477153 92.5522847,36 92,36 L28,36 Z" id="Rectangle-20"></path>
+            <path d="M24.5596795,36.5386397 L56.6785792,63.0728967 C59.1335116,65.1009801 62.6962267,65.0519971 65.0944742,62.9571883 L95.3703924,36.5119378 L93.3968312,34.2525007 L63.120913,60.6977512 C61.8295489,61.8257252 59.9111638,61.8521007 58.5892772,60.7600558 L26.4703775,34.2257987 L24.5596795,36.5386397 Z" id="Path-3"></path>
+        </g>
+    </g>
+</svg>

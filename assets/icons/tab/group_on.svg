@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="90px" viewBox="0 0 105 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab_menu/icon_group_on</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tab/select" transform="translate(-273.000000, -1617.000000)">
+            <g id="TAB" transform="translate(0.000000, 1611.000000)">
+                <g id="tab_menu/icon_group_off" transform="translate(273.000000, 6.000000)">
+                    <g id="グループ" transform="translate(13.000000, 17.000000)" stroke="#4A4A4A" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+                        <path d="M42,42.5847895 C43.6554557,34.8569474 50.8114166,29 59.3194725,29 C69.0437626,29 77,36.65 77,46" id="Stroke-3"></path>
+                        <path d="M69,12 C69,17.5233853 64.5226651,22 59.000464,22 C53.4773349,22 49,17.5233853 49,12 C49,6.47754269 53.4773349,2 59.000464,2 C64.5226651,2 69,6.47754269 69,12 Z" id="Stroke-5"></path>
+                        <path d="M0,60 C0,46.2505991 11.2500922,35 25,35 C38.7499078,35 50,46.2505991 50,60" id="Stroke-7"></path>
+                        <path d="M38,14 C38,21.7321719 31.7321719,28 24,28 C16.2678281,28 10,21.7321719 10,14 C10,6.26782812 16.2678281,0 24,0 C31.7321719,0 38,6.26782812 38,14 Z" id="Stroke-9"></path>
+                    </g>
+                    <rect id="Rectangle-5-Copy" x="0" y="0" width="105" height="90"></rect>
+                    <g id="グループselected" transform="translate(13.000000, 17.000000)" fill="#4A4A4A">
+                        <path d="M43,42.5847895 C44.6554557,34.8569474 51.8114166,29 60.3194725,29 C70.0437626,29 78,36.65 78,46" id="Stroke-3" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <rect id="Rectangle-Copy" x="43.5" y="45" width="35.5" height="3" rx="1.5"></rect>
+                        <path d="M70,12 C70,17.5233853 65.5226651,22 60.000464,22 C54.4773349,22 50,17.5233853 50,12 C50,6.47754269 54.4773349,2 60.000464,2 C65.5226651,2 70,6.47754269 70,12 Z" id="Stroke-5" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M1,60 C1,46.2505991 12.2500922,35 26,35 C39.7499078,35 51,46.2505991 51,60" id="Stroke-7" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <rect id="Rectangle-2" x="42" y="41" width="36" height="6"></rect>
+                        <path d="M50.5,59.5 C50.7761424,59.5 51.0261424,59.6119288 51.2071068,59.7928932 C51.3880712,59.9738576 51.5,60.2238576 51.5,60.5 C51.5,60.7761424 51.3880712,61.0261424 51.2071068,61.2071068 C51.0261424,61.3880712 50.7761424,61.5 50.5,61.5 L50.5,61.5 L1.5,61.5 C1.22385763,61.5 0.973857625,61.3880712 0.792893219,61.2071068 C0.611928813,61.0261424 0.5,60.7761424 0.5,60.5 C0.5,60.2238576 0.611928813,59.9738576 0.792893219,59.7928932 C0.973857625,59.6119288 1.22385763,59.5 1.5,59.5 L1.5,59.5 Z" id="Rectangle" stroke="#4A4A4A"></path>
+                        <path d="M39,14 C39,21.7321719 32.7321719,28 25,28 C17.2678281,28 11,21.7321719 11,14 C11,6.26782812 17.2678281,0 25,0 C32.7321719,0 39,6.26782812 39,14 Z" id="Stroke-9" stroke="#4A4A4A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
