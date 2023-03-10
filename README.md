@@ -6,7 +6,7 @@
 
 ### リポジトリの用意
 ```
-git clone -b master git@github.com:oshiruco/oshiruco_app.git
+git clone -b master git@github.com:rajibhossainpavel/old-communtiy.git
 ```
 
 ### dart
